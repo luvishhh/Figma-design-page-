@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-kdam-thmor: "Kdam Thmor";
+  --font-jura: Jura;
+  --font-jomolhari: Jomolhari;
+  --font-josefin-sans: "Josefin Sans";
+  --font-kantumruy: Kantumruy;
+  --font-julius-sans-one: "Julius Sans One";
+
+  /* font sizes */
+  --font-size-3xl: 22px;
+  --font-size-7xl: 26px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-2xl: 21px;
+}
